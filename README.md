@@ -1,5 +1,4 @@
 
-Aqui está um texto resumido para o arquivo README do seu projeto:
 
 Sistema de Gerenciamento de Cadastros
 Este projeto é um programa interativo em Python que permite gerenciar cadastros de usuários. Ele possui funcionalidades como cadastrar, visualizar, listar, alterar e excluir informações de usuários, tudo por meio de um menu interativo.
